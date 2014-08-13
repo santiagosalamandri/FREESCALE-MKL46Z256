@@ -6,7 +6,7 @@
 **     Component   : TimerInt_LDD
 **     Version     : Component 01.018, Driver 01.02, CPU db: 3.00.000
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2014-08-11, 22:51, # CodeGen: 8
+**     Date/Time   : 2014-08-13, 09:37, # CodeGen: 12
 **     Abstract    :
 **          This TimerInt component implements a periodic interrupt.
 **          When the component and its events are enabled, the "OnInterrupt"
@@ -22,7 +22,7 @@
 **          Interrupt service/event                        : Enabled
 **            Interrupt                                    : INT_LPTimer
 **            Interrupt priority                           : medium priority
-**          Interrupt period                               : 500 ms
+**          Interrupt period                               : 100 ms
 **          Initialization                                 : 
 **            Enabled in init. code                        : yes
 **            Auto initialization                          : yes

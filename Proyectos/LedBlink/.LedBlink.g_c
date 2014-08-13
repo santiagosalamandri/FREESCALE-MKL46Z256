@@ -318,7 +318,7 @@
     </GenFiles>
     <SignalListFile>Documentation\LedBlink_SIGNALS.txt</SignalListFile>
     <DestinationCompiler>GNUC</DestinationCompiler>
-    <ProjectModificationStamp>9</ProjectModificationStamp>
+    <ProjectModificationStamp>12</ProjectModificationStamp>
   </Options>
   <CpuID_12>
     <Generated>true</Generated>
@@ -326,8 +326,8 @@
     <GenComponentVersion>01.003</GenComponentVersion>
     <GenDriverVersion>01.04</GenDriverVersion>
     <GenEventModule>Events</GenEventModule>
-    <HeaderAge>1158394872</HeaderAge>
-    <CodeAge>1158394872</CodeAge>
+    <HeaderAge>1158451685</HeaderAge>
+    <CodeAge>1158451685</CodeAge>
     <AsemblAge>-1</AsemblAge>
     <GenNumMethods>11</GenNumMethods>
     <SetClockConfiguration>false</SetClockConfiguration>
@@ -619,8 +619,8 @@
     <GenComponentVersion>02.161</GenComponentVersion>
     <GenDriverVersion>01.02</GenDriverVersion>
     <GenEventModule>Events</GenEventModule>
-    <HeaderAge>1158395500</HeaderAge>
-    <CodeAge>1158395500</CodeAge>
+    <HeaderAge>1158499496</HeaderAge>
+    <CodeAge>1158499496</CodeAge>
     <AsemblAge>-1</AsemblAge>
     <GenNumMethods>14</GenNumMethods>
     <Enable>false</Enable>
@@ -672,8 +672,8 @@
       <GenComponentVersion>01.018</GenComponentVersion>
       <GenDriverVersion>01.02</GenDriverVersion>
       <GenEventModule>Events</GenEventModule>
-      <HeaderAge>1158395500</HeaderAge>
-      <CodeAge>1158395500</CodeAge>
+      <HeaderAge>1158499496</HeaderAge>
+      <CodeAge>1158499496</CodeAge>
       <AsemblAge>-1</AsemblAge>
       <GenNumMethods>17</GenNumMethods>
       <Init>true</Init>
@@ -739,8 +739,8 @@
     <GenComponentVersion>01.164</GenComponentVersion>
     <GenDriverVersion>01.11</GenDriverVersion>
     <GenEventModule>Events</GenEventModule>
-    <HeaderAge>1158395500</HeaderAge>
-    <CodeAge>1158395500</CodeAge>
+    <HeaderAge>1158499496</HeaderAge>
+    <CodeAge>1158499496</CodeAge>
     <AsemblAge>-1</AsemblAge>
     <GenNumMethods>22</GenNumMethods>
     <Init>true</Init>
@@ -818,14 +818,14 @@
       <MethodType>method</MethodType>
       <ModuleType>Code</ModuleType>
       <LineBeg>119</LineBeg>
-      <LineEnd>192</LineEnd>
+      <LineEnd>190</LineEnd>
     </MethodPos>
     <MethodPos>
       <MethodPos3>Interrupt</MethodPos3>
       <MethodType>internal_method</MethodType>
       <ModuleType>Code</ModuleType>
-      <LineBeg>193</LineBeg>
-      <LineEnd>211</LineEnd>
+      <LineBeg>191</LineBeg>
+      <LineEnd>209</LineEnd>
     </MethodPos>
     <GenExtraFilesCount>1</GenExtraFilesCount>
     <ExtraFile0>Documentation\doxygen\TU1.txt</ExtraFile0>

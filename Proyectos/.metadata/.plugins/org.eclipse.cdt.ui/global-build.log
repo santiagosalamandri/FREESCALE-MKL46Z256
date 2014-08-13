@@ -1,47 +1,54 @@
-23:02:33 **** Incremental Build of configuration Release for project LedBlink ****
+11:51:05 **** Incremental Build of configuration Debug for project LedBlink_FreeRTOS ****
 make all 
-'Building file: ../Sources/Events.c'
-'Invoking: Cross ARM C Compiler'
-arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Generated_Code" -std=c99 -MMD -MP -MF"Sources/Events.d" -MT"Sources/Events.o" -c -o "Sources/Events.o" "../Sources/Events.c"
-'Finished building: ../Sources/Events.c'
-' '
 'Building file: ../Sources/main.c'
 'Invoking: Cross ARM C Compiler'
-arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Generated_Code" -std=c99 -MMD -MP -MF"Sources/main.d" -MT"Sources/main.o" -c -o "Sources/main.o" "../Sources/main.c"
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Generated_Code" -std=c99 -MMD -MP -MF"Sources/main.d" -MT"Sources/main.o" -c -o "Sources/main.o" "../Sources/main.c"
 'Finished building: ../Sources/main.c'
 ' '
-'Building file: ../Generated_Code/Cpu.c'
-'Invoking: Cross ARM C Compiler'
-arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/Cpu.d" -MT"Generated_Code/Cpu.o" -c -o "Generated_Code/Cpu.o" "../Generated_Code/Cpu.c"
-'Finished building: ../Generated_Code/Cpu.c'
-' '
-'Building file: ../Generated_Code/PE_LDD.c'
-'Invoking: Cross ARM C Compiler'
-arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/PE_LDD.d" -MT"Generated_Code/PE_LDD.o" -c -o "Generated_Code/PE_LDD.o" "../Generated_Code/PE_LDD.c"
-'Finished building: ../Generated_Code/PE_LDD.c'
-' '
-'Building file: ../Generated_Code/TI1.c'
-'Invoking: Cross ARM C Compiler'
-arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/TI1.d" -MT"Generated_Code/TI1.o" -c -o "Generated_Code/TI1.o" "../Generated_Code/TI1.c"
-'Finished building: ../Generated_Code/TI1.c'
-' '
-'Building file: ../Generated_Code/TU1.c'
-'Invoking: Cross ARM C Compiler'
-arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/TU1.d" -MT"Generated_Code/TU1.o" -c -o "Generated_Code/TU1.o" "../Generated_Code/TU1.c"
-'Finished building: ../Generated_Code/TU1.c'
-' '
-'Building file: ../Generated_Code/TimerIntLdd1.c'
-'Invoking: Cross ARM C Compiler'
-arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/TimerIntLdd1.d" -MT"Generated_Code/TimerIntLdd1.o" -c -o "Generated_Code/TimerIntLdd1.o" "../Generated_Code/TimerIntLdd1.c"
-'Finished building: ../Generated_Code/TimerIntLdd1.c'
-' '
-'Building file: ../Generated_Code/Vectors.c'
-'Invoking: Cross ARM C Compiler'
-arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/Vectors.d" -MT"Generated_Code/Vectors.o" -c -o "Generated_Code/Vectors.o" "../Generated_Code/Vectors.c"
-'Finished building: ../Generated_Code/Vectors.c'
-' '
-'Building target: LedBlink.elf'
+'Building target: LedBlink_FreeRTOS.elf'
 'Invoking: Cross ARM C++ Linker'
-arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -T "C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Project_Settings/Linker_Files/ProcessorExpert.ld" -Xlinker --gc-sections -L"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink/Project_Settings/Linker_Files" -Wl,-Map,"LedBlink.map" -nanolibc -o "LedBlink.elf"  ./Sources/Events.o ./Sources/main.o  ./Project_Settings/Startup_Code/startup.o  ./Generated_Code/BitIoLdd1.o ./Generated_Code/Cpu.o ./Generated_Code/LedPtd5.o ./Generated_Code/PE_LDD.o ./Generated_Code/TI1.o ./Generated_Code/TU1.o ./Generated_Code/TimerIntLdd1.o ./Generated_Code/Vectors.o   
-'Finished building target: LedBlink.elf'
+arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Project_Settings/Linker_Files/ProcessorExpert.ld" -Xlinker --gc-sections -L"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Project_Settings/Linker_Files" -Wl,-Map,"LedBlink_FreeRTOS.map" -nanolibc -o "LedBlink_FreeRTOS.elf"  ./Sources/Events.o ./Sources/freeRTOS_tasks.o ./Sources/main.o  ./Project_Settings/Startup_Code/startup.o  ./Generated_Code/BitIoLdd1.o ./Generated_Code/Cpu.o ./Generated_Code/FRTOS1.o ./Generated_Code/LedPtd5.o ./Generated_Code/PE_LDD.o ./Generated_Code/UTIL1.o ./Generated_Code/Vectors.o ./Generated_Code/croutine.o ./Generated_Code/event_groups.o ./Generated_Code/heap_1.o ./Generated_Code/heap_2.o ./Generated_Code/heap_3.o ./Generated_Code/heap_4.o ./Generated_Code/list.o ./Generated_Code/port.o ./Generated_Code/queue.o ./Generated_Code/tasks.o ./Generated_Code/timers.o   
+'Finished building target: LedBlink_FreeRTOS.elf'
 ' '
+11:52:41 **** Incremental Build of configuration Debug for project LedBlink_FreeRTOS ****
+make all 
+'Building file: ../Sources/main.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Generated_Code" -std=c99 -MMD -MP -MF"Sources/main.d" -MT"Sources/main.o" -c -o "Sources/main.o" "../Sources/main.c"
+'Finished building: ../Sources/main.c'
+' '
+'Building target: LedBlink_FreeRTOS.elf'
+'Invoking: Cross ARM C++ Linker'
+arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Project_Settings/Linker_Files/ProcessorExpert.ld" -Xlinker --gc-sections -L"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Project_Settings/Linker_Files" -Wl,-Map,"LedBlink_FreeRTOS.map" -nanolibc -o "LedBlink_FreeRTOS.elf"  ./Sources/Events.o ./Sources/freeRTOS_tasks.o ./Sources/main.o  ./Project_Settings/Startup_Code/startup.o  ./Generated_Code/BitIoLdd1.o ./Generated_Code/Cpu.o ./Generated_Code/FRTOS1.o ./Generated_Code/LedPtd5.o ./Generated_Code/PE_LDD.o ./Generated_Code/UTIL1.o ./Generated_Code/Vectors.o ./Generated_Code/croutine.o ./Generated_Code/event_groups.o ./Generated_Code/heap_1.o ./Generated_Code/heap_2.o ./Generated_Code/heap_3.o ./Generated_Code/heap_4.o ./Generated_Code/list.o ./Generated_Code/port.o ./Generated_Code/queue.o ./Generated_Code/tasks.o ./Generated_Code/timers.o   
+'Finished building target: LedBlink_FreeRTOS.elf'
+' '
+11:53:25 **** Incremental Build of configuration Debug for project LedBlink_FreeRTOS ****
+make all 
+'Building file: ../Sources/freeRTOS_tasks.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Generated_Code" -std=c99 -MMD -MP -MF"Sources/freeRTOS_tasks.d" -MT"Sources/freeRTOS_tasks.o" -c -o "Sources/freeRTOS_tasks.o" "../Sources/freeRTOS_tasks.c"
+'Finished building: ../Sources/freeRTOS_tasks.c'
+' '
+'Building target: LedBlink_FreeRTOS.elf'
+'Invoking: Cross ARM C++ Linker'
+arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Project_Settings/Linker_Files/ProcessorExpert.ld" -Xlinker --gc-sections -L"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Project_Settings/Linker_Files" -Wl,-Map,"LedBlink_FreeRTOS.map" -nanolibc -o "LedBlink_FreeRTOS.elf"  ./Sources/Events.o ./Sources/freeRTOS_tasks.o ./Sources/main.o  ./Project_Settings/Startup_Code/startup.o  ./Generated_Code/BitIoLdd1.o ./Generated_Code/Cpu.o ./Generated_Code/FRTOS1.o ./Generated_Code/LedPtd5.o ./Generated_Code/PE_LDD.o ./Generated_Code/UTIL1.o ./Generated_Code/Vectors.o ./Generated_Code/croutine.o ./Generated_Code/event_groups.o ./Generated_Code/heap_1.o ./Generated_Code/heap_2.o ./Generated_Code/heap_3.o ./Generated_Code/heap_4.o ./Generated_Code/list.o ./Generated_Code/port.o ./Generated_Code/queue.o ./Generated_Code/tasks.o ./Generated_Code/timers.o   
+'Finished building target: LedBlink_FreeRTOS.elf'
+' '
+11:53:29 **** Incremental Build of configuration Debug for project LedBlink_FreeRTOS ****
+make all 
+make: Nothing to be done for `all'.
+12:51:36 **** Incremental Build of configuration Debug for project LedBlink_FreeRTOS ****
+make all 
+'Building file: ../Sources/freeRTOS_tasks.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Generated_Code" -std=c99 -MMD -MP -MF"Sources/freeRTOS_tasks.d" -MT"Sources/freeRTOS_tasks.o" -c -o "Sources/freeRTOS_tasks.o" "../Sources/freeRTOS_tasks.c"
+'Finished building: ../Sources/freeRTOS_tasks.c'
+' '
+'Building target: LedBlink_FreeRTOS.elf'
+'Invoking: Cross ARM C++ Linker'
+arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Project_Settings/Linker_Files/ProcessorExpert.ld" -Xlinker --gc-sections -L"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/LedBlink_FreeRTOS/Project_Settings/Linker_Files" -Wl,-Map,"LedBlink_FreeRTOS.map" -nanolibc -o "LedBlink_FreeRTOS.elf"  ./Sources/Events.o ./Sources/freeRTOS_tasks.o ./Sources/main.o  ./Project_Settings/Startup_Code/startup.o  ./Generated_Code/BitIoLdd1.o ./Generated_Code/Cpu.o ./Generated_Code/FRTOS1.o ./Generated_Code/LedPtd5.o ./Generated_Code/PE_LDD.o ./Generated_Code/UTIL1.o ./Generated_Code/Vectors.o ./Generated_Code/croutine.o ./Generated_Code/event_groups.o ./Generated_Code/heap_1.o ./Generated_Code/heap_2.o ./Generated_Code/heap_3.o ./Generated_Code/heap_4.o ./Generated_Code/list.o ./Generated_Code/port.o ./Generated_Code/queue.o ./Generated_Code/tasks.o ./Generated_Code/timers.o   
+'Finished building target: LedBlink_FreeRTOS.elf'
+' '
+12:51:39 **** Incremental Build of configuration Debug for project LedBlink_FreeRTOS ****
+make all 
+make: Nothing to be done for `all'.
