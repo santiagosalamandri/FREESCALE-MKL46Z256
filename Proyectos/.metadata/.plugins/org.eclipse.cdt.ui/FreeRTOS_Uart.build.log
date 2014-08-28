@@ -1,0 +1,120 @@
+22:59:33 **** Build of configuration Debug for project FreeRTOS_Uart ****
+make all 
+'Building file: ../Generated_Code/BitIoLdd1.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/BitIoLdd1.d" -MT"Generated_Code/BitIoLdd1.o" -c -o "Generated_Code/BitIoLdd1.o" "../Generated_Code/BitIoLdd1.c"
+'Finished building: ../Generated_Code/BitIoLdd1.c'
+' '
+'Building file: ../Generated_Code/BitIoLdd2.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/BitIoLdd2.d" -MT"Generated_Code/BitIoLdd2.o" -c -o "Generated_Code/BitIoLdd2.o" "../Generated_Code/BitIoLdd2.c"
+'Finished building: ../Generated_Code/BitIoLdd2.c'
+' '
+'Building file: ../Generated_Code/Cpu.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/Cpu.d" -MT"Generated_Code/Cpu.o" -c -o "Generated_Code/Cpu.o" "../Generated_Code/Cpu.c"
+'Finished building: ../Generated_Code/Cpu.c'
+' '
+'Building file: ../Generated_Code/CsIO1.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/CsIO1.d" -MT"Generated_Code/CsIO1.o" -c -o "Generated_Code/CsIO1.o" "../Generated_Code/CsIO1.c"
+'Finished building: ../Generated_Code/CsIO1.c'
+' '
+'Building file: ../Generated_Code/FRTOS1.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/FRTOS1.d" -MT"Generated_Code/FRTOS1.o" -c -o "Generated_Code/FRTOS1.o" "../Generated_Code/FRTOS1.c"
+'Finished building: ../Generated_Code/FRTOS1.c'
+' '
+'Building file: ../Generated_Code/IO1.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/IO1.d" -MT"Generated_Code/IO1.o" -c -o "Generated_Code/IO1.o" "../Generated_Code/IO1.c"
+'Finished building: ../Generated_Code/IO1.c'
+' '
+'Building file: ../Generated_Code/LedGreen.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/LedGreen.d" -MT"Generated_Code/LedGreen.o" -c -o "Generated_Code/LedGreen.o" "../Generated_Code/LedGreen.c"
+'Finished building: ../Generated_Code/LedGreen.c'
+' '
+'Building file: ../Generated_Code/LedRed.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/LedRed.d" -MT"Generated_Code/LedRed.o" -c -o "Generated_Code/LedRed.o" "../Generated_Code/LedRed.c"
+'Finished building: ../Generated_Code/LedRed.c'
+' '
+'Building file: ../Generated_Code/PE_LDD.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/PE_LDD.d" -MT"Generated_Code/PE_LDD.o" -c -o "Generated_Code/PE_LDD.o" "../Generated_Code/PE_LDD.c"
+'Finished building: ../Generated_Code/PE_LDD.c'
+' '
+'Building file: ../Generated_Code/UTIL1.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/UTIL1.d" -MT"Generated_Code/UTIL1.o" -c -o "Generated_Code/UTIL1.o" "../Generated_Code/UTIL1.c"
+'Finished building: ../Generated_Code/UTIL1.c'
+' '
+'Building file: ../Generated_Code/Vectors.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/Vectors.d" -MT"Generated_Code/Vectors.o" -c -o "Generated_Code/Vectors.o" "../Generated_Code/Vectors.c"
+'Finished building: ../Generated_Code/Vectors.c'
+' '
+'Building file: ../Generated_Code/croutine.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/croutine.d" -MT"Generated_Code/croutine.o" -c -o "Generated_Code/croutine.o" "../Generated_Code/croutine.c"
+'Finished building: ../Generated_Code/croutine.c'
+' '
+'Building file: ../Generated_Code/event_groups.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/event_groups.d" -MT"Generated_Code/event_groups.o" -c -o "Generated_Code/event_groups.o" "../Generated_Code/event_groups.c"
+'Finished building: ../Generated_Code/event_groups.c'
+' '
+'Building file: ../Generated_Code/heap_1.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/heap_1.d" -MT"Generated_Code/heap_1.o" -c -o "Generated_Code/heap_1.o" "../Generated_Code/heap_1.c"
+'Finished building: ../Generated_Code/heap_1.c'
+' '
+'Building file: ../Generated_Code/heap_2.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/heap_2.d" -MT"Generated_Code/heap_2.o" -c -o "Generated_Code/heap_2.o" "../Generated_Code/heap_2.c"
+'Finished building: ../Generated_Code/heap_2.c'
+' '
+'Building file: ../Generated_Code/heap_3.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/heap_3.d" -MT"Generated_Code/heap_3.o" -c -o "Generated_Code/heap_3.o" "../Generated_Code/heap_3.c"
+'Finished building: ../Generated_Code/heap_3.c'
+' '
+'Building file: ../Generated_Code/heap_4.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/heap_4.d" -MT"Generated_Code/heap_4.o" -c -o "Generated_Code/heap_4.o" "../Generated_Code/heap_4.c"
+'Finished building: ../Generated_Code/heap_4.c'
+' '
+'Building file: ../Generated_Code/list.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/list.d" -MT"Generated_Code/list.o" -c -o "Generated_Code/list.o" "../Generated_Code/list.c"
+'Finished building: ../Generated_Code/list.c'
+' '
+'Building file: ../Generated_Code/port.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/port.d" -MT"Generated_Code/port.o" -c -o "Generated_Code/port.o" "../Generated_Code/port.c"
+'Finished building: ../Generated_Code/port.c'
+' '
+'Building file: ../Generated_Code/queue.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/queue.d" -MT"Generated_Code/queue.o" -c -o "Generated_Code/queue.o" "../Generated_Code/queue.c"
+'Finished building: ../Generated_Code/queue.c'
+' '
+'Building file: ../Generated_Code/tasks.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/tasks.d" -MT"Generated_Code/tasks.o" -c -o "Generated_Code/tasks.o" "../Generated_Code/tasks.c"
+'Finished building: ../Generated_Code/tasks.c'
+' '
+'Building file: ../Generated_Code/timers.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/timers.d" -MT"Generated_Code/timers.o" -c -o "Generated_Code/timers.o" "../Generated_Code/timers.c"
+'Finished building: ../Generated_Code/timers.c'
+' '
+'Building target: FreeRTOS_Uart.elf'
+'Invoking: Cross ARM C++ Linker'
+arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Project_Settings/Linker_Files/ProcessorExpert.ld" -Xlinker --gc-sections -L"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_Uart/Project_Settings/Linker_Files" -Wl,-Map,"FreeRTOS_Uart.map" -nanolibc -o "FreeRTOS_Uart.elf"  ./Sources/Events.o ./Sources/freeRTOS_tasks.o ./Sources/main.o  ./Project_Settings/Startup_Code/startup.o  ./Generated_Code/BitIoLdd1.o ./Generated_Code/BitIoLdd2.o ./Generated_Code/Cpu.o ./Generated_Code/CsIO1.o ./Generated_Code/FRTOS1.o ./Generated_Code/IO1.o ./Generated_Code/LedGreen.o ./Generated_Code/LedRed.o ./Generated_Code/PE_LDD.o ./Generated_Code/UTIL1.o ./Generated_Code/Vectors.o ./Generated_Code/croutine.o ./Generated_Code/event_groups.o ./Generated_Code/heap_1.o ./Generated_Code/heap_2.o ./Generated_Code/heap_3.o ./Generated_Code/heap_4.o ./Generated_Code/list.o ./Generated_Code/port.o ./Generated_Code/queue.o ./Generated_Code/tasks.o ./Generated_Code/timers.o   
+'Finished building target: FreeRTOS_Uart.elf'
+' '
+
+22:59:50 Build Finished (took 16s.972ms)
+

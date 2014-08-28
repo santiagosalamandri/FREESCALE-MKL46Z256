@@ -5,25 +5,27 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="C:\Users\user\Dropbox\GitHub\FREESCALE-MKL46Z256\Proyectos\LedBlink_MQXlite"/>
-			<item value="C:\Users\user\Dropbox\GitHub\FREESCALE-MKL46Z256\Proyectos\Plantilla"/>
-			<item value="C:\Users\user\Dropbox\GitHub\FREESCALE-MKL46Z256\Proyectos\LedBlink"/>
+			<item value="C:\Users\user\Dropbox\GitHub\FREESCALE-MKL46Z256\Proyectos"/>
+			<item value="C:\Users\user\Dropbox\GitHub\FREESCALE-MKL46Z256\Proyectos\FreeRTOS_LedBlink"/>
+			<item value="C:\Users\user\Dropbox\GitHub\FREESCALE-MKL46Z256\Proyectos\Uart_FreeRTOS"/>
+			<item value="C:\Users\user\Dropbox\GitHub\All_docs\Freescale\mcuoneclipse\Examples\FRDM-KL46Z"/>
+			<item value="C:\Users\user\Dropbox\GitHub\All_docs\Freescale\mcuoneclipse\Examples\FRDM-KL46Z\FRDM-KL46Z_Demo"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
 		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="113" key="DIALOG_Y_ORIGIN"/>
+		<item value="377" key="DIALOG_HEIGHT"/>
+		<item value="433" key="DIALOG_X_ORIGIN"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
 	</section>
 	<section name="NewWizardAction">
 		<item value="com.processorexpert.ui.kds.newprojectwizard.wizard1" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.ui.Basic"/>
 		</list>
-	</section>
-	<section name="CleanDialogSettings">
-		<item value="500" key="DIALOG_WIDTH"/>
-		<item value="113" key="DIALOG_Y_ORIGIN"/>
-		<item value="433" key="DIALOG_X_ORIGIN"/>
-		<item value="377" key="DIALOG_HEIGHT"/>
-		<item value="false" key="TOGGLE_SELECTED"/>
 	</section>
 </section>

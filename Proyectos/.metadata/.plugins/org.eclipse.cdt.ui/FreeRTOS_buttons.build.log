@@ -1,0 +1,15 @@
+19:26:39 **** Incremental Build of configuration Debug for project FreeRTOS_buttons ****
+make all 
+'Building file: ../Sources/freeRTOS_tasks.c'
+'Invoking: Cross ARM C Compiler'
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_buttons/Static_Code\PDD" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_buttons/Static_Code\IO_Map" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_buttons/Sources" -I"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_buttons/Generated_Code" -std=c99 -MMD -MP -MF"Sources/freeRTOS_tasks.d" -MT"Sources/freeRTOS_tasks.o" -c -o "Sources/freeRTOS_tasks.o" "../Sources/freeRTOS_tasks.c"
+'Finished building: ../Sources/freeRTOS_tasks.c'
+' '
+'Building target: FreeRTOS_buttons.elf'
+'Invoking: Cross ARM C++ Linker'
+arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_buttons/Project_Settings/Linker_Files/ProcessorExpert.ld" -Xlinker --gc-sections -L"C:/Users/user/Dropbox/GitHub/FREESCALE-MKL46Z256/Proyectos/FreeRTOS_buttons/Project_Settings/Linker_Files" -Wl,-Map,"FreeRTOS_buttons.map" -nanolibc -o "FreeRTOS_buttons.elf"  ./Sources/Events.o ./Sources/freeRTOS_tasks.o ./Sources/main.o  ./Project_Settings/Startup_Code/startup.o  ./Generated_Code/BitIoLdd1.o ./Generated_Code/BitIoLdd2.o ./Generated_Code/ButtonSW1.o ./Generated_Code/ButtonSW3.o ./Generated_Code/Cpu.o ./Generated_Code/CsIO1.o ./Generated_Code/FRTOS1.o ./Generated_Code/IO1.o ./Generated_Code/LedGreen.o ./Generated_Code/LedRed.o ./Generated_Code/PE_LDD.o ./Generated_Code/PTCinit.o ./Generated_Code/UTIL1.o ./Generated_Code/Vectors.o ./Generated_Code/croutine.o ./Generated_Code/event_groups.o ./Generated_Code/heap_1.o ./Generated_Code/heap_2.o ./Generated_Code/heap_3.o ./Generated_Code/heap_4.o ./Generated_Code/list.o ./Generated_Code/port.o ./Generated_Code/queue.o ./Generated_Code/tasks.o ./Generated_Code/timers.o   
+'Finished building target: FreeRTOS_buttons.elf'
+' '
+
+19:26:40 Build Finished (took 1s.442ms)
+

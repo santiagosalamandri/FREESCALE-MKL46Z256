@@ -1,7 +1,7 @@
 UserPEpath=C\:\\ProgramData\\Processor Expert\\PEXDRV_PE5_3
 UserPEpath_Default=C\:\\ProgramData\\Processor Expert\\CWMCU_PE5_00
 eclipse.preferences.version=1
-history/lastActiveProject=LedBlink_FreeRTOS
+history/lastActiveProject=MQXlite_LedBlink
 importExportComponentsPath=C\:\\Users\\user\\Dropbox\\GitHub\\FREESCALE-MKL46Z256\\Proyectos\\LedBlink
 internal/debugLevel=0
 localPEpath=C\:\\Freescale\\KDS_1.1.0\\eclipse\\ProcessorExpert
